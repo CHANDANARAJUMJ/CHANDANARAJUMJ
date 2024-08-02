@@ -36,3 +36,6 @@ Hi, I'm Chandana Raju M J, a Computer Science student with a passion for explori
 > Trust the Timing of your Life
 
 ![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
+
+## My Leetcode Statistics
+![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
