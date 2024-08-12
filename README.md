@@ -37,5 +37,4 @@ Hi, I'm Chandana Raju M J, a Computer Science student with a passion for explori
 
 ![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
 
-## My Leetcode Statistics
-![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
+## My Leetcode Statistics ![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
