@@ -1,6 +1,6 @@
-# Hii! Welcome I'm Chandana Raju M J 
+<h1 align="center">Hii! Welcome I'm Chandana Raju M J</h1> 
 
-###                               Motivated and curious graduate with a strong interest in technology and problem-solving
+###Motivated and curious graduate with a strong interest in technology and problem-solving
 
 
 
