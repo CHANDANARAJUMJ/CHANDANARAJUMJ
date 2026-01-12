@@ -2,9 +2,24 @@
 
 <h3 align="center">Motivated and curious graduate with a strong interest in technology and problem-solving</h3>
 
-<a href="https://github.com/CHANDANARAJUMJ">
-  <button>GitHub</button>
-</a>
+
+![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
+
+
+
+<div align="center">
+<ul>
+  <li>I am a Computer Science graduate with hands-on experience</b></li>
+  <li>Check out my resume here – <a href="https://your-resume-link">My Resume</a></li>
+  <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ">GitHub Profile</a></li>
+  <li>Reach out to me at <b>chandanarajumj@gmail.com</b></li>
+</ul>
+</div>
+
+
+
+## My Leetcode Statistics ![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
+
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -33,11 +48,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
 
+<h2 align="center>Trust the Timing of your Life</h2>
 
 
-## Quote
-> Trust the Timing of your Life
-
-![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
-
-## My Leetcode Statistics ![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
