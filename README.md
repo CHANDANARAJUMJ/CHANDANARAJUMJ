@@ -1,9 +1,9 @@
 <h1 align="center">Hii! Welcome I'm Chandana Raju M J</h1> 
 
-<h3 align="center">Motivated and curious graduate with a strong interest in technology and problem-solving</h3>
+<h3 align="center">Motivated and curious graduate with a strong interest in technology and problem-solving</h3><br>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
+![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)<br>
 
 
 <div>
