@@ -14,7 +14,8 @@
   <li>Reach out to me at <b>chandanarajumj@gmail.com</b></li>
 </ul>
 </div>
-
+<br>
+<h2>Leetcode Stats</h2>
 
 ![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
 
