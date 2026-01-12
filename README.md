@@ -1,16 +1,10 @@
 <h1 align="center">Hii! Welcome I'm Chandana Raju M J</h1> 
 
-###Motivated and curious graduate with a strong interest in technology and problem-solving
+<h3 align="center">Motivated and curious graduate with a strong interest in technology and problem-solving</h3>
 
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/CHANDANARAJUMJ">
+  <button>GitHub</button>
+</a>
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
