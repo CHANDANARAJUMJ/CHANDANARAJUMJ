@@ -10,8 +10,8 @@
 <ul>
   <li>I am a Computer Science graduate with hands-on experience</b></li>
   <li>Check out my resume here – <a href="https://your-resume-link">My Resume</a></li>
-  <li>All of my projects are available on <a href="[https://github.com/CHANDANARAJUMJ](https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li>
-  <li>Reach out to me at <b>chandanarajumj@gmail.com</b></li>
+  <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li>
+  <li>Reach out to me at <a href="chandanarajumj@gmail.com">chandanarajumj@gmail.com</a></li>
 </ul>
 </div></h3>
 <br>
