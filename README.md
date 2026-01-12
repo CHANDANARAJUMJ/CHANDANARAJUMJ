@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Hii! Welcome
 
 Hi, I'm Chandana Raju M J, a Computer Science student with a passion for exploring new technologies and expanding my knowledge in the tech field.
 
