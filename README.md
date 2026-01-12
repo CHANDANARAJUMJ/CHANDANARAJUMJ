@@ -29,7 +29,6 @@ Hi, I'm Chandana Raju M J, a Computer Science student with a passion for explori
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHANDANARAJUMJ&show_icons=true&locale=en&layout=compact" alt="Chandana" /></p>
 
 
 ## Quote
