@@ -1,11 +1,10 @@
 <h1 align="center">Hii! Welcome I'm Chandana Raju M J</h1> 
-<br>
+
 <h3 align="center">Motivated and curious graduate with a strong interest in technology and problem-solving</h3>
 
-<br><br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)
 
-<br><br><br>
 
 <div>
 <ul>
@@ -16,10 +15,9 @@
 </ul>
 </div>
 
-<br><br><br>
+###Leetcode stats:
+##![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
 
-## My Leetcode Statistics ![](https://leetcard.jacoblin.cool/chandanarajumj?ext=heatmap)
-<br><br><br>
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -47,7 +45,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
-<br><br><br>
 <h2 align="center>Trust the Timing of your Life</h2>
 
 
