@@ -1,6 +1,6 @@
-# Hii! Welcome
+# Hii! Welcome I'm Chandana Raju M J 
 
-Hi, I'm Chandana Raju M J, a Computer Science student with a passion for exploring new technologies and expanding my knowledge in the tech field.
+### Motivated and curious graduate with a strong interest in technology and problem-solving
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
