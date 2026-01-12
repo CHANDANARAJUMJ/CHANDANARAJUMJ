@@ -1,6 +1,16 @@
 # Hii! Welcome I'm Chandana Raju M J 
 
-### Motivated and curious graduate with a strong interest in technology and problem-solving
+###                               Motivated and curious graduate with a strong interest in technology and problem-solving
+
+
+
+
+
+
+
+
+
+
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
