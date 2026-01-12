@@ -6,14 +6,14 @@
 ![Profile views](https://komarev.com/ghpvc/?username=CHANDANARAJUMJ)<br>
 
 
-<h3><div>
+<h4><div>
 <ul>
   <li>I am a Computer Science graduate with hands-on experience</b></li>
   <li>Check out my resume here – <a href="https://your-resume-link">My Resume</a></li>
   <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li>
   <li>Reach out to me at <a href="chandanarajumj@gmail.com">chandanarajumj@gmail.com</a></li>
 </ul>
-</div></h3>
+</div></h4>
 <br>
 <h2>Leetcode Stats</h2>
 
@@ -46,6 +46,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
-<h2 align="center>Trust the Timing of your Life</h2>
+
+<h2 align="cente"r>Trust the Timing of your Life</h2>
 
 
