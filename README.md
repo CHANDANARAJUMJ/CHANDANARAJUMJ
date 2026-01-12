@@ -8,10 +8,10 @@
 
 <h4><div>
 <ul>
-  <li>I am a Computer Science graduate with hands-on experience</b></li>
-  <li>Check out my resume here – <a href="https://your-resume-link">My Resume</a></li>
-  <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li>
-  <li>Reach out to me at <a href="chandanarajumj@gmail.com">chandanarajumj@gmail.com</a></li>
+  <li>I am a Computer Science graduate with hands-on experience</b></li><br>
+  <li>Check out my resume here – <a href="https://your-resume-link">My Resume</a></li><br>
+  <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li><br>
+  <li>Reach out to me at <a href="chandanarajumj@gmail.com">chandanarajumj@gmail.com</a></li><br>
 </ul>
 </div></h4>
 <br>
@@ -47,6 +47,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
 
-<h2 align="cente"r>Trust the Timing of your Life</h2>
+<h2 align="center">Trust the Timing of your Life</h2>
 
 
