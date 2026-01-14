@@ -9,7 +9,7 @@
 <h4><div>
 <ul>
   <li>I am a Computer Science graduate with hands-on experience</b></li><br>
-  <li>Check out my resume here – <a href="">My Resume</a></li><br>
+  <li>Check out my resume here – <a href="https://drive.google.com/file/d/15YTYxKmwMY_wT0OFoE9x-nJein0EY2_3/view?usp=sharing">My Resume</a></li><br>
   <li>All of my projects are available on <a href="https://github.com/CHANDANARAJUMJ?tab=repositories)">GitHub Repositories</a></li><br>
   <li>LinkedIn Profile – <a href="https://www.linkedin.com/in/chandana-raju-m-j-6719093a4/">Click here</a></li><br>
   <li>Reach out to me at <a href="chandanarajumj@gmail.com">chandanarajumj@gmail.com</a></li><br>
